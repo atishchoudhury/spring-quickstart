@@ -1,0 +1,3 @@
+#HOW TO CONFIGURE MULTIPLE OAUTH RESOURCE SERVERS
+##Requirement
+Spring Boot 2.x.x
