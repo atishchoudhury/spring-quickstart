@@ -10,10 +10,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.aurora</groupId>
-	<artifactId>spring-boot-quickstart</artifactId>
+	<artifactId>spring-security-multioauth</artifactId>
 	<version>0.0.1</version>
-	<name>spring-boot-quickstart</name>
-	<description>Spring Boot Quickstart guide</description>
+	<name>spring-security-multioauth</name>
+	<description>Spring Boot Mutiple OAuth with Basic Security protection for APIs</description>
 
 	<properties>
 		<spring.security.oauth2.version>2.1.5.RELEASE</spring.security.oauth2.version>
