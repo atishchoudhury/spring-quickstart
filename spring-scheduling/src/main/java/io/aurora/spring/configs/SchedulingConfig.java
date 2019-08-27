@@ -17,7 +17,6 @@ import org.springframework.scheduling.config.ScheduledTaskRegistrar;
 
 import io.aurora.spring.utils.DynamicValueProvider;
 
-@Configuration
 @EnableScheduling
 public class SchedulingConfig implements SchedulingConfigurer{
 
@@ -37,7 +36,7 @@ public class SchedulingConfig implements SchedulingConfigurer{
 	            @Override
 	            public void run() {
 	            		
-	            	
+	            	log.info("PROCESSING");
 	            }
 	        }, new Trigger() {
 

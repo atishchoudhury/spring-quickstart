@@ -20,7 +20,7 @@
 	</properties>
 
 	<modules>
-		<module>spring-boot-quickstart</module>
+		<module>spring-scheduling</module>
         <module>spring-cloud-quickstart</module>
     </modules>
 
