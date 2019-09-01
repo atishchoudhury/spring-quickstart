@@ -21,7 +21,11 @@
 
 	<modules>
 		<module>spring-scheduling</module>
-        <module>spring-cloud-quickstart</module>
+		<module>spring-security-multioauth</module>
+		<!-- Below are In Progress -->
+		<!--
+        	<module>spring-cloud-quickstart</module>
+		-->
     </modules>
 
 	<build>
