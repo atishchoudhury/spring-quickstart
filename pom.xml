@@ -21,7 +21,13 @@
 
 	<modules>
 		<module>spring-scheduling</module>
+		<module>spring-rbac</module>
+		<module>spring-security-multioauth</module>
+		
+		<!-- 
         <module>spring-cloud-quickstart</module>
+         -->
+         
     </modules>
 
 	<build>

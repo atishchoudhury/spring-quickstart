@@ -14,7 +14,7 @@ import io.aurora.spring.security.oauth.UserAuthenticationInterceptor;
 @Configuration
 public class SecurityConfig extends WebMvcConfigurerAdapter {
 
-	@Value("${security.interceptor.flag}")
+	@Value("${security.interceptor.flag:true}")
 	private boolean intercepterFlag;
 
 	@Override
