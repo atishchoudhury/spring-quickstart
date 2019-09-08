@@ -1,6 +1,7 @@
 # QUICKSTART SAMPLES
 ## TESTING
-### Wrinting Unit Test
+### Writing Unit Test
+(sample project)[/spring-quickstart/tree/master/spring-rbac]
 * Enable H2 on Test scope if using JPA
 - pom.xml file entry https://github.com/atishchoudhury/spring-quickstart/blob/master/spring-rbac/pom.xml
 * Use MochitoJunitRunner with Monchito and JUnit annotations and classes 
